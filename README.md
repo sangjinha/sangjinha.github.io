@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Sangjin Ha
 
 You can use the [editor on GitHub](https://github.com/sangjinha/sangjinha.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
