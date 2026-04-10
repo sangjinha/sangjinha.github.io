@@ -1,6 +1,6 @@
 ## Sangjin Ha
 
-Frontend Engineer / Researcher
+Frontend/Backend Engineer
 
 ### Career
 
